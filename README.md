@@ -1,2 +1,2 @@
-# noob_chain
+# BlockChain with Java
 Implement a simple Proof of Work (Mining) System.
